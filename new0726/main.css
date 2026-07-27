@@ -1,0 +1,26 @@
+#shu{
+            color: gold;
+            font-size: 20px;
+            opacity: 0.5;
+        }
+        .red{
+            color: red;
+            font-size: 40px;
+        }   
+        h1{
+            color: green;
+        }
+        .blue13{
+            color: blue;
+        }
+        .purple{
+            color: purple;
+        }
+        .pink{
+            color: orange;
+        }
+        #shu .yellow{
+            color: yellow;
+        }
+        #shu img{opacity: 200;
+        }
